@@ -18,7 +18,7 @@
     "@radix-ui/react-toast": "^1.2.15",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-react": "^0.475.0",
+    "lucide-react": "^0.561.0",
     "next": "15.4.10",
     "next-themes": "^0.4.4",
     "react": "^19.2.3",
