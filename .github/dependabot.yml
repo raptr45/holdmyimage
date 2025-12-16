@@ -8,7 +8,6 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    # Explicitly setting rebase-strategy is valid, though "auto" is the default.
     rebase-strategy: "auto"
     commit-message:
       prefix: "chore"
