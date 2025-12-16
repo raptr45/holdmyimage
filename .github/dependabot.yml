@@ -16,7 +16,3 @@ updates:
     labels:
       - "dependencies"
       - "auto-update"
-    # Ignore major version updates for Next.js to avoid breaking changes
-    ignore:
-      - dependency-name: "next"
-        update-types: ["version-update:semver-major"]
